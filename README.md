@@ -45,7 +45,7 @@ Maps API`. Once created this project will contain your API Key and
 Endpoint that will be used later. Whilst still on OS Data Hub, download
 a copy of [OS Open
 ZoomStack](https://osdatahub.os.uk/downloads/OpenZoomstack) as a
-GeoPackage from the Download page - we will include the Local Buildings
+GeoPackage from the `Download` page - we will include the Local Buildings
 layer as part of the 3D model.
 
 The Environment Agency (EA) have several useful datasets available on
@@ -60,11 +60,11 @@ Digital Terrain Model (DTM)
 ---------------------------
 
 Once you have downloaded the EA DTM data, use the tools you are familiar
-with to merge the rasters together - we used the Mosaic To New Raster
+with to merge the rasters together - we used the `Mosaic To New Raster`
 tool within ArcGIS Pro. The EA data captured in 2017 only focuses on
 those areas that are effected by flooding and therefore contains 'gaps'
 (work is underway to complete full coverage of England by 2021) -- we
-used the Clip Raster tool to clip the data to the relevant study area.
+used the `Clip Raster` tool to clip the data to the relevant study area.
 
 ![Clipping raster layer](./media/image2.jpg)
 
@@ -73,21 +73,19 @@ Loading the data
 ![OS Maps API](./media/image3.PNG)
 It is now time to prepare the data ready to be converted into a 3D
 model. Create a new project in ArcGIS Pro and remove any
-basemaps. Select Insert from the top tab menu and follow this procedure
+basemaps. Select `Insert` from the top tab menu and follow this procedure
 to inset the OS Maps API:
 
--   Project/Connections
-
--   New WMTS Server
-
--   Service URL \<copy API Endpoint address from OS DataHub\>
+-   `Project/Connections`
+-   `New WMTS Server`
+-   `Service URL \<copy API Endpoint address from OS DataHub\>`
 
 A connection to all available basemaps in the OS Maps API can now be
 found in the .wmts connection under the Servers folder in Catalog. Add
 the Outdoor\_27700 option to the map.
 
 Whilst still in Catalog, navigate to where you saved your merged DTM
-raster and add to the map. Also, open OS Open ZoomStack and add the
+raster and add to the map. Also, open `OS Open ZoomStack` and add the
 Local Building layer to the map (optional: clip buildings to the study
 area).
 
@@ -146,10 +144,10 @@ separately once the 3D model has been created.
 3D Model
 --------
 
-It's now time to create the 3D model, which is done by going to the View
-tab, selecting Convert and using the To Local Scene option. Switch on
-the EA Lidar DTM layer and drag down from the 2D Layers section to
-Elevation Surfaces/Ground and switch off the WorldElevation3D/Terrain3D
+It's now time to create the 3D model, which is done by going to the `View`
+tab, selecting `Convert` and using the `To Local Scene` option. Switch on
+the `EA Lidar DTM` layer and drag down from the 2D Layers section to
+Elevation Surfaces/Ground and switch off the `WorldElevation3D/Terrain3D`
 layer. Like the previous step, zoom in and out and see how the mapbase
 automatically changes.
 
@@ -164,9 +162,9 @@ automatically changes.
 We also want to see our Local Building layer in 3D and as we themed them
 on risk level, the ones effected by flooding should now stand out.
 Select the building layer in the Contents menu which will activate the
-Feature Layer option tab. Under Appearance change the Type to Max Height
-(within the Extrusion group). Next to the Field option, select the
-Extrusion Expression option and enter a number in the Expression box
+Feature Layer option tab. Under `Appearance` change the `Type` to `Max Height`
+(within the `Extrusion` group). Next to the `Field` option, select the
+`Extrusion Expression` option and enter a number in the `Expression` box
 e.g. 5.
 
 ![3D model - at risk buildings - image 2](./media/image12.png)
@@ -177,4 +175,4 @@ e.g. 5.
 
 ![3D model - at risk buildings - image 4](./media/image16.png)
 
-If you make a beautiful map using OS data - let us know!
+If you create a beautiful 3D model using OS data - let us know!
