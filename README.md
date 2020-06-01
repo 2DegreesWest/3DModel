@@ -1,16 +1,17 @@
 3D Models
 =========
+
 Brief description of the tutorial contents. This markdown file is optimized for Github.
 
 Image of what we're going for!
 
 Tools and APIs
-=========
+----
 
 The languages, libraries, APIs and external data sources we'll use to complete this tutorial.
 
-Tutorial
-=========
+Tutorial 
+----
 
 2D maps are informative, however viewing the same data in 3D adds a
 whole new level of context. We are going to use various Ordnance Survey
