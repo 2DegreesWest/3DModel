@@ -40,8 +40,8 @@ Tutorial
 Firstly, we are going to obtain data from the relevant Ordnance Survey
 and Environment Agency platforms. Head over to
 [osdatahub.os.uk](https://osdatahub.os.uk/), sign up and create a
-project (using the API Dashboard and API options) that includes the OS
-Maps API. Once created this project will contain your API Key and
+project (using the API Dashboard and API options) that includes the `OS
+Maps API`. Once created this project will contain your API Key and
 Endpoint that will be used later. Whilst still on OS Data Hub, download
 a copy of [OS Open
 ZoomStack](https://osdatahub.os.uk/downloads/OpenZoomstack) as a
@@ -176,3 +176,5 @@ e.g. 5.
 ![3D model - at risk buildings - image 3](./media/image15.png)
 
 ![3D model - at risk buildings - image 4](./media/image16.png)
+
+If you make a beautiful map using OS data - let us know!
