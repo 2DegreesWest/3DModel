@@ -6,8 +6,8 @@ whole new level of context. We are going to use various Ordnance Survey
 products combined with third party datasets to create a rich interactive
 3D model.
 
-<p align="center" border="black">
-  <img width="700" src="./media/image1.png" alt="Image of final 3D model">
+<p align="center">
+  <img width="700" border-style="solid" src="./media/image1.png" alt="Image of final 3D model">
 </p>
 
 Tools and APIs
