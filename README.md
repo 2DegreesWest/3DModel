@@ -1,14 +1,19 @@
 3D Models
 =========
 
-Brief description of the tutorial contents. This markdown file is optimized for Github.
+This tutorial covers creating rich interactive 3D models by utilising OS Maps API and Environment Agency Lidar data.
 
 Image of what we're going for!
 
 Tools and APIs
 ----
+The 3D model created in this tutorial will be created using the following resources:
 
-The languages, libraries, APIs and external data sources we'll use to complete this tutorial.
+- OS Maps API - [osdatahub.os.uk](https://osdatahub.os.uk/)
+- OS Open ZoomStack - [osdatahub.os.uk - downloads](https://osdatahub.os.uk/downloads/OpenZoomstack)
+- Environment Agency - [environment.data.gov.uk](https://environment.data.gov.uk/DefraDataDownload/?Mode=survey)
+- Environment Agency Flood Risk Zones - [Risk of Flooding from Rivers and Sea](https://environment.data.gov.uk/arcgis/rest/services/EA/RiskOfFloodingFromRiversAndSea/MapServer)
+The software used will be ArcGIS Pro 2.5 but similar processes and techniques are available in other GIS software.
 
 Tutorial 
 ----
@@ -18,8 +23,7 @@ whole new level of context. We are going to use various Ordnance Survey
 products combined with third party datasets to create a rich interactive
 3D model.
 
-![A map of the hill Description automatically
-generated](./media/media/image1.png){width="6.6930555555555555in"
+![Image of final 3D model](./media/image1.png){width="6.6930555555555555in"
 height="4.145833333333333in"}
 
 The software used will be ArcGIS Pro 2.5 but similar processes and
