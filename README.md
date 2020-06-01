@@ -78,7 +78,7 @@ to inset the OS Maps API:
 
 -   `Project/Connections`
 -   `New WMTS Server`
--   `Service URL \<copy API Endpoint address from OS DataHub\>`
+-   `Service URL <copy API Endpoint address from OS DataHub>`
 
 A connection to all available basemaps in the OS Maps API can now be
 found in the .wmts connection under the Servers folder in Catalog. Add
