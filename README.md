@@ -1,9 +1,13 @@
 3D Models
 =========
 
-This tutorial covers creating rich interactive 3D models by utilising OS Maps API and Environment Agency Lidar data.
+2D maps are informative, however viewing the same data in 3D adds a
+whole new level of context. We are going to use various Ordnance Survey
+products combined with third party datasets to create a rich interactive
+3D model.
 
-Image of what we're going for!
+![Image of final 3D model](./media/image1.png){width="6.6930555555555555in"
+height="4.145833333333333in"}
 
 Tools and APIs
 ----
@@ -13,18 +17,6 @@ The 3D model created in this tutorial will be created using the following resour
 - OS Open ZoomStack - [osdatahub.os.uk - downloads](https://osdatahub.os.uk/downloads/OpenZoomstack)
 - Environment Agency - [environment.data.gov.uk](https://environment.data.gov.uk/DefraDataDownload/?Mode=survey)
 - Environment Agency Flood Risk Zones - [Risk of Flooding from Rivers and Sea](https://environment.data.gov.uk/arcgis/rest/services/EA/RiskOfFloodingFromRiversAndSea/MapServer)
-The software used will be ArcGIS Pro 2.5 but similar processes and techniques are available in other GIS software.
-
-Tutorial 
-----
-
-2D maps are informative, however viewing the same data in 3D adds a
-whole new level of context. We are going to use various Ordnance Survey
-products combined with third party datasets to create a rich interactive
-3D model.
-
-![Image of final 3D model](./media/image1.png){width="6.6930555555555555in"
-height="4.145833333333333in"}
 
 The software used will be ArcGIS Pro 2.5 but similar processes and
 techniques are available in other GIS software. All the data is freely
@@ -40,7 +32,7 @@ the form of [OS Terrain
 50](https://osdatahub.os.uk/downloads/Terrain50) (50m grid resolution)
 is also available to download for free from OS Data Hub.
 
-Data
+Tutorial 
 ----
 
 Firstly, we are going to obtain data from the relevant Ordnance Survey
