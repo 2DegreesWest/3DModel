@@ -6,12 +6,18 @@ whole new level of context. We are going to use various Ordnance Survey
 products combined with third party datasets to create a rich interactive
 3D model.
 
+<p align="center">
+  <img width="500" src="./media/image1.png" alt="Image of final 3D model">
+</p>
+
+
 ![Image of final 3D model](./media/image1.png){width="6.6930555555555555in"
 height="4.145833333333333in"}
 
 Tools and APIs
 ----
-The 3D model created in this tutorial will be created using the following resources:
+
+The following resources were used in creating the 3D model: 
 
 - OS Maps API - [osdatahub.os.uk](https://osdatahub.os.uk/)
 - OS Open ZoomStack - [osdatahub.os.uk - downloads](https://osdatahub.os.uk/downloads/OpenZoomstack)
