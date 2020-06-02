@@ -145,7 +145,7 @@ separately once the 3D model has been created.
 3D Model
 --------
 
-It's now time to create the 3D model, which is done by going to the `View`
+It's now time to create the 3D model, which is achieved by going to the `View`
 tab, selecting `Convert` and using the `To Local Scene` option. Switch on
 the `EA Lidar DTM` layer and drag down from the 2D Layers section to
 Elevation Surfaces/Ground and switch off the `WorldElevation3D/Terrain3D`
