@@ -13,7 +13,7 @@ products combined with third party datasets to create a rich interactive
 Tools and APIs
 ----
 
-The following resources were used in creating the 3D model: 
+The following resources are used in creating the 3D model: 
 
 - OS Maps API - [osdatahub.os.uk](https://osdatahub.os.uk/)
 - OS Open ZoomStack - [osdatahub.os.uk - downloads](https://osdatahub.os.uk/downloads/OpenZoomstack)
