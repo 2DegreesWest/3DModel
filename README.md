@@ -86,7 +86,7 @@ the Outdoor\_27700 option to the map.
 
 Whilst still in Catalog, navigate to where you saved your merged DTM
 raster and add to the map. Also, open `OS Open ZoomStack` and add the
-Local Building layer to the map (optional: clip buildings to the study
+`Local Building` layer to the map (optional: clip buildings to the study
 area).
 
 Finally, as the EA data was collected in relation to flooding, it would
