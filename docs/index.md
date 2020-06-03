@@ -165,9 +165,9 @@ Feature Layer option tab. Under `Appearance` change the `Type` to `Max Height`
 `Extrusion Expression` option and enter a number in the `Expression` box
 e.g. 5.
 
-![3D model - at risk buildings - image 2](./public/os-data-hub-tutorials/dist/gis-applications/3D-Model/image12.png)
+![3D model - at risk buildings - image 1](./public/os-data-hub-tutorials/dist/gis-applications/3D-Model/image12.png)
 
-![3D model - at risk buildings - image 1](./public/os-data-hub-tutorials/dist/gis-applications/3D-Model/image1.png)
+![3D model - at risk buildings - image 2](./public/os-data-hub-tutorials/dist/gis-applications/3D-Model/image1.png)
 
 ![3D model - at risk buildings - image 3](./public/os-data-hub-tutorials/dist/gis-applications/3D-Model/image15.png)
 
