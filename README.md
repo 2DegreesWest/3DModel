@@ -9,6 +9,8 @@ products combined with third party datasets to create a rich interactive
 <p align="center">
   <img width="700" src="./media/image1.png" alt="Image of final 3D model">
 </p>
+*Animation of 3D model with buildings themed by flood risk* 
+
 
 Tools and APIs
 ----
@@ -133,6 +135,7 @@ following:
 Your screen should now look similar to this:
 
 ![All data styled](./media/image6.PNG)
+![Building style](./media/image17.PNG)
 
 You will probably notice at this point that the OS Maps API will
 automatically change depending on your scale. Zoom in and out and move
