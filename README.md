@@ -8,6 +8,7 @@ products combined with third party datasets to create a rich interactive
 
 <p align="center">
   <img width="700" src="./media/image1.png" alt="Image of final 3D model">
+  
   <em>Animation of 3D model with buildings themed by flood risk</em>  
 </p>
 
