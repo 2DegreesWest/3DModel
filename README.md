@@ -8,10 +8,8 @@ products combined with third party datasets to create a rich interactive
 
 <p align="center">
   <img width="700" src="./media/image1.png" alt="Image of final 3D model">
+  <em>Animation of 3D model with buildings themed by flood risk</em>  
 </p>
-
-<em style="text-align: center;">Animation of 3D model with buildings themed by flood risk</em>
-
 
 Tools and APIs
 ----
@@ -70,6 +68,7 @@ those areas that are effected by flooding and therefore contains 'gaps'
 used the `Clip Raster` tool to clip the data to the relevant study area.
 
 ![Clipping raster layer](./media/image2.jpg)
+*Clipping area of interest*
 
 Loading the data
 ----------------
