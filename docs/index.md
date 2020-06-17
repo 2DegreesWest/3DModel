@@ -6,6 +6,7 @@ products combined with third party datasets to create a rich interactive
 <p align="center">
   <img width="700" src="./public/os-data-hub-tutorials/dist/gis-applications/3D-Model/image1.png" alt="Image of final 3D model">
 </p>
+<em>Animation of 3D model with buildings themed by flood risk *</em>
 
 Tools and APIs
 ----
@@ -130,6 +131,7 @@ following:
 Your screen should now look similar to this:
 
 ![All data styled](./public/os-data-hub-tutorials/dist/gis-applications/3D-Model/image6.PNG)
+![Building style](./public/os-data-hub-tutorials/dist/gis-applications/3D-Model/image17.PNG)
 
 You will probably notice at this point that the OS Maps API will
 automatically change depending on your scale. Zoom in and out and move
@@ -174,3 +176,5 @@ e.g. 5.
 ![3D model - at risk buildings - image 4](./public/os-data-hub-tutorials/dist/gis-applications/3D-Model/image16.png)
 
 If you create a beautiful 3D model using OS data - let us know!
+
+<em> * The animation featured at the start of the tutorial was exported from Esri ArcGIS Pro (v2.5) which optimises the 3D model as the user navigates around it, meaning it is easier to work with larger and more detailed datasets.  You may notice that the landscape ‘changes’ as more detail is brought into view and the model is rendered for optimum resolution with features further away taking less priority.  The actual outline of the 3D model is directed from using the EA Lidar data which was captured in 2017 and focused on specific areas effected by flooding, hence why the tops of the Mendip Hills have been excluded. </em>  
