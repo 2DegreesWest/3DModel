@@ -9,6 +9,7 @@ products combined with third party datasets to create a rich interactive
 <p align="center">
   <img width="700" src="./media/image1.png" alt="Image of final 3D model">
 </p>
+
 <em style="text-align: center;">Animation of 3D model with buildings themed by flood risk</em>
 
 
@@ -72,7 +73,7 @@ used the `Clip Raster` tool to clip the data to the relevant study area.
 
 Loading the data
 ----------------
-![OS Maps API](./media/image3.PNG =100x20)
+![OS Maps API](./media/image3.PNG)
 
 It is now time to prepare the data ready to be converted into a 3D
 model. Create a new project in ArcGIS Pro and remove any
@@ -98,7 +99,7 @@ be appropriate to include a flood related dataset. Use the Living Atlas
 Sea](https://environment.data.gov.uk/arcgis/rest/services/EA/RiskOfFloodingFromRiversAndSea/MapServer)
 layer.
 
-![EA Flood Risk Zones](./media/image4.PNG)
+![EA Flood Risk Zones](./media/image4.PNG "EA Flood Risk Zones")
 
 Styling the data
 ----------------
