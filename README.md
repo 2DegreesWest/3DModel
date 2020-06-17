@@ -72,7 +72,7 @@ used the `Clip Raster` tool to clip the data to the relevant study area.
 
 Loading the data
 ----------------
-![OS Maps API](./media/image3.PNG)
+![OS Maps API](./media/image3.PNG =100x20)
 
 It is now time to prepare the data ready to be converted into a 3D
 model. Create a new project in ArcGIS Pro and remove any
