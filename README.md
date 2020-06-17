@@ -9,7 +9,7 @@ products combined with third party datasets to create a rich interactive
 <p align="center">
   <img width="700" src="./media/image1.png" alt="Image of final 3D model">
   
-  <em>Animation of 3D model with buildings themed by flood risk</em>  
+  <em>Animation of 3D model with buildings themed by flood risk *</em>  
 </p>
 
 Tools and APIs
@@ -69,7 +69,6 @@ those areas that are effected by flooding and therefore contains 'gaps'
 used the `Clip Raster` tool to clip the data to the relevant study area.
 
 ![Clipping raster layer](./media/image2.jpg)
-*Clipping area of interest*
 
 Loading the data
 ----------------
@@ -99,7 +98,7 @@ be appropriate to include a flood related dataset. Use the Living Atlas
 Sea](https://environment.data.gov.uk/arcgis/rest/services/EA/RiskOfFloodingFromRiversAndSea/MapServer)
 layer.
 
-![EA Flood Risk Zones](./media/image4.PNG "EA Flood Risk Zones")
+![EA Flood Risk Zones](./media/image4.PNG)
 
 Styling the data
 ----------------
@@ -181,3 +180,5 @@ e.g. 5.
 ![3D model - at risk buildings - image 4](./media/image16.png)
 
 If you create a beautiful 3D model using OS data - let us know!
+
+* The animation was exported from Esri ArcGIS Pro (v2.5) which optimises the 3D model as the user navigates around it, meaning it is easier to work with larger and more detailed datasets.  You may notice that the landscape ‘changes’ as more detail is brought into view and the model is rendered for optimum resolution with features further away taking less priority.  The actual shape of the 3D model is directed from using the EA Lidar data which was captured in 2017 and focused on specific areas effected by flooding, hence why the tops of the Mendip Hills have been excluded.  
