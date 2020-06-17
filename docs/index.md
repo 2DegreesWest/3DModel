@@ -115,6 +115,8 @@ following:
     non-intersecting buildings -- this value matches the building colour
     from the OS Maps Outdoor theme.
 
+![Building style](./public/os-data-hub-tutorials/dist/gis-applications/3D-Model/image17.PNG)
+
 2.  Risk of Flooding from Rivers and Sea: switched off once the above
     intersect is complete.
 
@@ -131,7 +133,6 @@ following:
 Your screen should now look similar to this:
 
 ![All data styled](./public/os-data-hub-tutorials/dist/gis-applications/3D-Model/image6.PNG)
-![Building style](./public/os-data-hub-tutorials/dist/gis-applications/3D-Model/image17.PNG)
 
 You will probably notice at this point that the OS Maps API will
 automatically change depending on your scale. Zoom in and out and move
