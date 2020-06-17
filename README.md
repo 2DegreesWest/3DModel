@@ -6,12 +6,6 @@ whole new level of context. We are going to use various Ordnance Survey
 products combined with third party datasets to create a rich interactive
 3D model.
 
-<figure>
-  <img src="./media/image1.png" alt="Caption text">
-  <figcaption>Caption text</figcaption>
-</figure>
-
-
 <p align="center">
   <img width="700" src="./media/image1.png" alt="Image of final 3D model">
   
