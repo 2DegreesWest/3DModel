@@ -112,12 +112,13 @@ created.
 Order the layers and implement the relevant settings so they match the
 following:
 
+![Building style](./media/image17.PNG)
 1.  Local Buildings: add a new column to the attribute table and tag
     buildings as High, Medium, Low or Very Low depending on which flood
     risk zone they intersect with. The building colours are adopted from
     the EA flood risk layer with HEX EAE7DD used for any
     non-intersecting buildings -- this value matches the building colour
-    from the OS Maps Outdoor theme.
+    from the OS Maps Outdoor theme. 
 
 2.  Risk of Flooding from Rivers and Sea: switched off once the above
     intersect is complete.
@@ -135,7 +136,6 @@ following:
 Your screen should now look similar to this:
 
 ![All data styled](./media/image6.PNG)
-![Building style](./media/image17.PNG)
 
 You will probably notice at this point that the OS Maps API will
 automatically change depending on your scale. Zoom in and out and move
