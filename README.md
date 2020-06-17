@@ -6,6 +6,14 @@ whole new level of context. We are going to use various Ordnance Survey
 products combined with third party datasets to create a rich interactive
 3D model.
 
+<figure class="image">
+  <img src="{{ include.url }}" alt="{{ include.description }}">
+  <figcaption>{{ include.description }}</figcaption>
+</figure>
+
+{% include image.html url="./media/image1.png" description="Animation of 3D model with buildings themed by flood risk *" %}
+
+
 <p align="center">
   <img width="700" src="./media/image1.png" alt="Image of final 3D model">
   
