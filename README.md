@@ -118,7 +118,8 @@ following:
     the EA flood risk layer with HEX EAE7DD used for any
     non-intersecting buildings -- this value matches the building colour
     from the OS Maps Outdoor theme. 
-![Building style](./media/image17.PNG){:style="float: right;"}
+
+![Building style](./media/image17.PNG)
 
 2.  Risk of Flooding from Rivers and Sea: switched off once the above
     intersect is complete.
