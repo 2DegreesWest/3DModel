@@ -9,7 +9,7 @@ products combined with third party datasets to create a rich interactive
 <p align="center">
   <img width="700" src="./media/image1.png" alt="Image of final 3D model">
   
-  <em>3D model with buildings themed by flood risk (click #here to view animation)</em>  
+  <em>3D model with buildings themed by flood risk (click [here](https://www.ordnancesurvey.co.uk/) to view animation)</em>  
 </p>
 
 Tools and APIs
